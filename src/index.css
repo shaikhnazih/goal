@@ -43,3 +43,10 @@ code {
 .cross {
   text-decoration: line-through;
 }
+
+.header {
+  height: 100px;
+  background-color: cadetblue;
+  color: white;
+  font-size: xx-large;
+}

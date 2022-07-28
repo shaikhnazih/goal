@@ -6,6 +6,7 @@ import GoalCalendar from './components/GoalCalendar';
 function App() {
   return (
     <div className="App">
+      <div className='header'> Welcome!!!</div>
       <GoalCalendar> </GoalCalendar>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
